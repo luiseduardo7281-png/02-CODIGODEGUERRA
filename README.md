@@ -1,9 +1,9 @@
 # 02-CODIGODEGUERRA
-Bruna Gabrielli - Relatora Administrativa 
-Guilherme Willaim - Negócios
-Luís Eduardo - Programador
-Letícia S. - Representante e designer 
-Letícia B. - designer
+Bruna Gabrielli - Relatora Administrativa;
+Guilherme Williamm - Negócios;
+Luís Eduardo - Programador;
+Letícia S. - Representante e designer;
+Letícia B. - designer;
 
 Escopo do Projeto: (Negócios)
 Safra+
