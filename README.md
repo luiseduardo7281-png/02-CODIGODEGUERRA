@@ -203,4 +203,4 @@ Inovação;
 Sustentabilidade;
 Valorização do produtor rural.
 
-![diagrama.jpeg]diagrama
+![diagrama](diagrama.jpeg)
