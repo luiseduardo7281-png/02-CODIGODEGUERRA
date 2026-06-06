@@ -204,3 +204,5 @@ Sustentabilidade;
 Valorização do produtor rural.
 
 ![diagrama](diagrama.jpeg)
+
+https://www.canva.com/design/DAHLwPSR6yA/fPzzUjNoeSBW0JIcHf7WJQ/edit 
